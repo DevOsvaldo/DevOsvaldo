@@ -13,7 +13,7 @@
   <img align="center" alt="Junior-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Junior-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Junior-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-  <a href="https://www.cursoemvideo.com/certificates/certificado/?course_id=25971&cert-nonce=4d200569f1">
+  <a href="https://www.cursoemvideo.com/certificates/certificado/?course_id=25971&cert-nonce=4d200569f1" target = "_blank">
    <img align="center" alt="Junior-MySQL" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></a>
   
 </div>
