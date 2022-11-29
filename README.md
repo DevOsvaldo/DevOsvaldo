@@ -23,7 +23,7 @@
  </div>
  
  
- <div><br>
+ <div align="left">
   <h1 style ="font-family: Tahoma font-size:32px font-style:italic"> Certificados</h1>
   <ul type="square">
       <li><a href="https://www.cursoemvideo.com/certificates/certificado/?course_id=25971&cert-nonce=4d200569f1" target="_blank">Curso de MYSQL</a></li>
